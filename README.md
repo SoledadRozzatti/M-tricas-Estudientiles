@@ -59,10 +59,5 @@ El tablero muestra las siguientes métricas:
 
 ___
 
-1. Los datos brutos fueron tratados con scripts en Python (`pandas`, `numpy`).
-2. Se organizaron y revisaron en Excel.
-3. Luego se importaron a Power BI para construir el dashboard.
-4. Se aplicaron segmentaciones interactivas por División, Género, Edad, Afición y Acceso Tecnológico.
 
-## 📁 Estructura del repositorio
 
