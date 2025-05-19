@@ -38,6 +38,26 @@ El tablero muestra las siguientes métricas:
 - [Power BI Desktop](https://powerbi.microsoft.com/): visualización interactiva
 
 ## 🛠️ Proceso de trabajo
+<br>
+
+
+<br>
+
+ * ### Inicialmente realicé la selección de los datos con los que trabajaría (dataset proporcionado en base a archivos excel). Los datos fueron tomados a partir de fuentes de recolección primarias, como respuestas de google form, exámenes realizados, que fueron tomados por el docente a cargo del alumnado. 
+
+ <br>
+
+ * ### Luego de una exloracion general de los datos obtenidos, **`Análisis Exploratorio de los datos`** (_Exploratory Data Analysis = EDA_) proseguí a establecer un flujo de trabajo, para avanzar hacia un análisis más exhaustivo de los datos y obtener así información de calidad. Para lo cual utilicé la herramienta **`Python`** con sus librerías para procesamiento y visualización como **`pandas, numpy, datetime, missigno, matplotlib, seaborn, wordcloud`**. Para que puedas visualizar en mayor detalle el procesamiento y análisis de los datos, puedes recorrer los archivos _ETL_Dataset_Alumnos.ipynb_ y _EDA_Dataset_Alumnos.ipynb_.
+
+<br>
+
+
+ * ### Habiendo cumplimentado todo lo anterior, finalmente continué con la creación del dashboard interactivo y su informe correspondiente. Para ello utilicé la herramienta de visualización [Power BI](https://powerbi.microsoft.com/es-es/)
+
+ <br>
+
+
+___
 
 1. Los datos brutos fueron tratados con scripts en Python (`pandas`, `numpy`).
 2. Se organizaron y revisaron en Excel.
