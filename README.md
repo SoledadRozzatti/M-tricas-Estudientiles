@@ -30,12 +30,6 @@ El tablero muestra las siguientes métricas:
 - **Nota promedio por habilidad o área**
 - **Relación entre razonamiento y memorización** (gráfico de dispersión)
 
-## 🧰 Herramientas utilizadas
-
-- [Python](https://www.python.org/): limpieza y transformación de datos
-- [Excel](https://www.microsoft.com/excel): revisión y consolidación de archivos
-- [Visual Studio Code](https://code.visualstudio.com/): entorno de desarrollo
-- [Power BI Desktop](https://powerbi.microsoft.com/): visualización interactiva
 
 ## 🛠️ Proceso de trabajo
 <br>
@@ -56,6 +50,12 @@ El tablero muestra las siguientes métricas:
 
  <br>
 
+## 🧰 Herramientas utilizadas
+
+- ### [Python](https://www.python.org/): limpieza y transformación de datos
+- ### [Excel](https://www.microsoft.com/excel): revisión y consolidación de archivos
+- ### [Visual Studio Code](https://code.visualstudio.com/): entorno de desarrollo
+- ### [Power BI Desktop](https://powerbi.microsoft.com/): visualización interactiva
 
 ___
 
