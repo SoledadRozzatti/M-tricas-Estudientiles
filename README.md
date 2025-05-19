@@ -1,4 +1,4 @@
-<p align=center><img src=_src\portada estudiantes.png><p>
+
 # Dashboard de Perfil de Alumnos
 
 Este proyecto contiene un dashboard interactivo desarrollado en Power BI que analiza distintas métricas relacionadas con dos divisiones de alumnos, con un total de 55 estudiantes. El análisis combina datos procesados previamente con Python y Excel.
