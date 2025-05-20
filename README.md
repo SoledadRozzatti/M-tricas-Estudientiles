@@ -17,6 +17,7 @@
 
 ### Este análisis busca encontrar patrones o correlaciones entre variables como el acceso a tecnología, los intereses personales y el rendimiento académico, contribuyendo a una mejor comprensión del entorno estudiantil y posibles factores que influyen en el aprendizaje.
 
+<br>
 
 ## 📊 Visualizaciones incluidas
 
@@ -31,6 +32,7 @@ El tablero muestra las siguientes métricas:
 - **Nota promedio por habilidad o área**
 - **Relación entre razonamiento y memorización** (gráfico de dispersión)
 
+  <br>
 
 ## 🛠️ Proceso de trabajo
 
