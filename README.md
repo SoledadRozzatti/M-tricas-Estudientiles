@@ -48,6 +48,12 @@ El tablero muestra las siguientes métricas:
 
  <br>
 
+ ___
+
+> ### KPI planteado
+
++ ### *Incremento del porcentaje de Alumnos Aprobados con nota mayor a 7, respecto al primer examen. El objetivo sería llegar al 70% del alumnado*.
+
 ## 🧰 Herramientas utilizadas
 
 - ### [Python](https://www.python.org/): limpieza y transformación de datos
