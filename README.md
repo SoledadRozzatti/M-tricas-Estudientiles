@@ -17,6 +17,7 @@
 
 ### Este análisis busca encontrar patrones o correlaciones entre variables como el acceso a tecnología, los intereses personales y el rendimiento académico, contribuyendo a una mejor comprensión del entorno estudiantil y posibles factores que influyen en el aprendizaje.
 
+
 ## 📊 Visualizaciones incluidas
 
 El tablero muestra las siguientes métricas:
@@ -52,6 +53,8 @@ El tablero muestra las siguientes métricas:
 > ### KPI planteado
 
 + ### *Incremento del porcentaje de Alumnos Aprobados con nota mayor a 7, respecto al primer examen. El objetivo sería llegar al 70% del alumnado*.
+
+  <br>
 
 ## 🧰 Herramientas utilizadas
 
