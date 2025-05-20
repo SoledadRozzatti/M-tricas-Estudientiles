@@ -32,7 +32,6 @@ El tablero muestra las siguientes métricas:
 
 
 ## 🛠️ Proceso de trabajo
-<br>
 
 
 <br>
@@ -44,7 +43,6 @@ El tablero muestra las siguientes métricas:
  * ### Luego de una exloracion general de los datos obtenidos, **`Análisis Exploratorio de los datos`** (_Exploratory Data Analysis = EDA_) proseguí a establecer un flujo de trabajo, para avanzar hacia un análisis más exhaustivo de los datos y obtener así información de calidad. Para lo cual utilicé la herramienta **`Python`** con sus librerías para procesamiento y visualización como **`pandas, numpy, datetime, missigno, matplotlib, seaborn, wordcloud`**. Para que puedas visualizar en mayor detalle el procesamiento y análisis de los datos, puedes recorrer los archivos _ETL_Dataset_Alumnos.ipynb_ y _EDA_Dataset_Alumnos.ipynb_.
 
 <br>
-
 
  * ### Habiendo cumplimentado todo lo anterior, finalmente continué con la creación del dashboard interactivo y su informe correspondiente. Para ello utilicé la herramienta de visualización [Power BI](https://powerbi.microsoft.com/es-es/)
 
