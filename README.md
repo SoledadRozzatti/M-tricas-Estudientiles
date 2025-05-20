@@ -1,21 +1,21 @@
 
 # Perfil de Alumnos
 
-Este proyecto contiene el análisis de una base de datos de alumnos de nivel secundario. El conjunto de datos incluye información diversa y detallada sobre cada estudiante, lo que permite explorar múltiples dimensiones educativas y personales.
+### Este proyecto contiene el análisis de una base de datos de alumnos de nivel secundario. El conjunto de datos incluye información diversa y detallada sobre cada estudiante, lo que permite explorar múltiples dimensiones educativas y personales.
 
-Los datos analizados abarcan:
+### Los datos analizados abarcan:
 
-Características biométricas: edad, género.
+### * Características biométricas: edad, género.
 
-Acceso tecnológico: disponibilidad de celular y computadora.
+### * Acceso tecnológico: disponibilidad de celular y computadora.
 
-Preferencias personales: aficiones e intereses de los alumnos.
+### * Preferencias personales: aficiones e intereses de los alumnos.
 
-Rendimiento académico: notas obtenidas en distintos ejercicios.
+### * Rendimiento académico: notas obtenidas en distintos ejercicios.
 
-Capacidades cognitivas: resultados en ejercicios relacionados con la memorización y el razonamiento.
+### * Capacidades cognitivas: resultados en ejercicios relacionados con la memorización y el razonamiento.
 
-Este análisis busca encontrar patrones o correlaciones entre variables como el acceso a tecnología, los intereses personales y el rendimiento académico, contribuyendo a una mejor comprensión del entorno estudiantil y posibles factores que influyen en el aprendizaje.
+### Este análisis busca encontrar patrones o correlaciones entre variables como el acceso a tecnología, los intereses personales y el rendimiento académico, contribuyendo a una mejor comprensión del entorno estudiantil y posibles factores que influyen en el aprendizaje.
 
 ## 📊 Visualizaciones incluidas
 
