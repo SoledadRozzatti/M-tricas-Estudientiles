@@ -48,7 +48,6 @@ El tablero muestra las siguientes métricas:
 
  <br>
 
- ___
 
 > ### KPI planteado
 
